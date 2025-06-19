@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Cyril Ejoku (aka Breenie Bent)
+# 👋 Hi there, I'm Cyril Ejoku (aka BreenieB)
 
 ## ⚽ I'm a Professional Footballer & a Passionate Web Developer
 
