@@ -20,7 +20,7 @@
 
 ## 📊 GitHub Stats
 
-![Cyril's GitHub Stats](https://github-readme-stats.vercel.app/api?username=breeniebent&show_icons=true&theme=radical)
+![Cyril's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyril-enos&show_icons=true&theme=radical)
 
 ## ✨ Fun Facts
 
