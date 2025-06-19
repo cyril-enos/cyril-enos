@@ -36,8 +36,7 @@ Welcome to my corner of the internet! I'm a professional footballer from Uganda 
 
 - 🚀 Building fullstack projects to sharpen skills and serve real clients
 - 📦 Creating clean, responsive, mobile-first web solutions with passion
-- 🌐 Developing a personal portfolio to showcase both football and code
-- 🎥 Launching a vlog/podcast about football life, faith, and purpose
+- 🌐 Developing a personal portfolio to showcase code
 
 ---
 
